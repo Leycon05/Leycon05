@@ -1,82 +1,181 @@
-<h1 align="center">Olá 👋, eu sou Leycon</h1>
-<h3 align="center">Desenvolvedor em formação | Bacharelado em Ciência da Computação</h3>
+<div align="center">
 
-<p align="center">
-<a href="https://leycon05.github.io/portfolio/" target="_blank">🌐 Portfólio</a> •
-<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/" target="_blank">💼 LinkedIn</a> •
-<a href="mailto:limaleycon@gmail.com">📧 Email</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=Leycon%20Lima&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Web%20%7C%20Mobile%20Developer&descAlignY=55&descSize=20"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=leycon05&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="leycon05" />
-</p>
+# 👋 Olá, eu sou Leycon Lima
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=leycon05&theme=onedark" alt="leycon05" />
+### 💻 Desenvolvedor em Formação | Web & Mobile
+
+<a href="https://leycon05.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-000000?style=for-the-badge"/>
 </a>
-</p>
+<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
+</a>
+<a href="mailto:limaleycon@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+</div>
 
 ---
 
-🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
+## 👨‍💻 Sobre mim
 
-🎓 Bacharelado em Ciência da Computação – UNIP *(em andamento)*  
+```javascript
+const leycon = {
+    nome: "Leycon Lima",
 
-💻 Interessado em **Desenvolvimento Front-End e Mobile**
+    formação: [
+        "Técnico em Desenvolvimento de Sistemas - SENAI",
+        "Bacharelado em Ciência da Computação - UNIP"
+    ],
 
----
+    áreas: [
+        "Desenvolvimento Web",
+        "Desenvolvimento Mobile"
+    ],
 
-<h3 align="left">Conecte-se comigo:</h3>
+    foco: "Desenvolvimento de software",
 
-<p align="left">
+    objetivo: "Evoluir constantemente e transformar ideias em código."
+};
+```
 
-<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
-</a>
+💻 Desenvolvedor em formação com interesse em **Desenvolvimento Web e Mobile**.
 
-<a href="https://instagram.com/its_leycon.05" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
+🎓 Técnico em Desenvolvimento de Sistemas pelo **SENAI**.
 
-</p>
+🎓 Atualmente cursando **Bacharelado em Ciência da Computação na UNIP**.
 
----
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-
-<p align="left">
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-</p>
+🚀 Busco constantemente aprender novas tecnologias, desenvolver minhas habilidades e transformar ideias em soluções através da programação.
 
 ---
 
-<h3 align="left">Estatísticas do GitHub:</h3>
+## 🎓 Formação
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leycon05&show_icons=true&locale=pt-br&layout=compact" alt="leycon05" />
-</p>
+* 🎓 **Técnico em Desenvolvimento de Sistemas** – SENAI
+* 🎓 **Bacharelado em Ciência da Computação** – UNIP *(em andamento)*
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leycon05&show_icons=true&locale=pt-br" alt="leycon05" />
-</p>
+---
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leycon05" alt="leycon05" />
-</p>
+## 🧠 Tecnologias
+
+### 🌐 Web
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</div>
+
+### 📱 Mobile
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=reactnative,expo" />
+
+</div>
+
+### ⚙️ Back-End & Banco de Dados
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+
+</div>
+
+### 🔧 Ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 🎯 Áreas de Interesse
+
+* 🌐 **Desenvolvimento Web**
+* 📱 **Desenvolvimento Mobile**
+* ⚙️ **Desenvolvimento de APIs**
+* ☕ **Java & Spring Boot**
+* 🗄️ **Banco de Dados**
+* ⚛️ **React & React Native**
+* 🔧 **Git & GitHub**
+* 🚀 **Desenvolvimento de Software**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leycon05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leycon05&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+---
+
+
+
+---
+
+## 📈 Minha Jornada
+
+```text
+        🎓 SENAI
+           │
+           ▼
+ Técnico em Desenvolvimento
+      de Sistemas
+           │
+           ▼
+     💻 Desenvolvimento
+       Web & Mobile
+           │
+           ▼
+        🎓 UNIP
+           │
+           ▼
+ Bacharelado em Ciência
+      da Computação
+           │
+           ▼
+     🚀 Evolução constante
+```
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://leycon05.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐_PORTFÓLIO-8B0000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/">
+<img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:limaleycon@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Transformando ideias em código.
+
+**Obrigado por visitar meu perfil! 👋**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer"/>
+
+</div>
