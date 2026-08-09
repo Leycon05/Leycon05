@@ -6,13 +6,15 @@
 
 ### 💻 Desenvolvedor em Formação | Web & Mobile
 
-<a href="https://leycon05.github.io/portfolio/">
+<a href="https://leycon05.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-000000?style=for-the-badge"/>
 </a>
-<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/">
+
+<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
 </a>
-<a href="mailto:limaleycon@gmail.com">
+
+<a href="mailto:limaleycon@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
@@ -69,13 +71,15 @@ const leycon = {
 
 </div>
 
+
 ### 📱 Mobile
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=reactnative,expo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="50" height="50" alt="Expo"/>
 
-</div>
+
 
 ### ⚙️ Back-End & Banco de Dados
 
@@ -120,7 +124,13 @@ const leycon = {
 
 ---
 
+## 🔥 GitHub Streak
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Leycon05&theme=radical&hide_border=false"/>
+
+</div>
 
 ---
 
@@ -154,15 +164,15 @@ const leycon = {
 
 <div align="center">
 
-<a href="https://leycon05.github.io/portfolio/">
+<a href="https://leycon05.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-8B0000?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/">
+<a href="https://www.linkedin.com/in/leycon-lima-91b0192b8/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:limaleycon@gmail.com">
+<a href="mailto:limaleycon@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
